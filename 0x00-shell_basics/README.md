@@ -1,1 +1,1 @@
-*This a script that prints current working directory*
+*Thiss a script that prints current working directory*
