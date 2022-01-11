@@ -1,1 +1,2 @@
 #!/bin/bash
+replace A,c z,e
