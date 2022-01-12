@@ -1,1 +1,1 @@
-*Readme file for what I hope is a new directory Ive just created*
+*Readme file for shell redirections project*
