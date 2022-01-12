@@ -1,2 +1,2 @@
 #!/bin/bash
-replace A,c z,e
+tr Ac Ze
