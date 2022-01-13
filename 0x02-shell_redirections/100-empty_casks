@@ -1,2 +1,2 @@
 #!/bin/bash
-brew list --cask ./*
+find -type f,d -empty
