@@ -1,2 +1,2 @@
 #!/bin/bash
-let TRUEKNOWLEDGE=89 | let b=128 | echo $TRUEKNOWLEDGE+$b
+export TRUEKNOWLEDGE | let TRUEKNOWLEDGE+128 | echo $TRUEKNOWLEDGE
