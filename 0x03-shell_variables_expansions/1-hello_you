@@ -1,2 +1,2 @@
 #!/bin/bash
-alias | printf "hello MyUser" | printf(" ")
+alias whoami="hello MyUser" | printf("\n")
