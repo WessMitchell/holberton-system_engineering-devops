@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+END=10; x=$END; while [ $x -gt 0 ]; do echo "Best School"; x=$(($x-1)); done 
