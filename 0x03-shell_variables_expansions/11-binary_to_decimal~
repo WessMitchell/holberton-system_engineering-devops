@@ -1,0 +1,2 @@
+#!/bin/bash
+tr "$BINARY" base-10 | echo$(\n)
